@@ -1,0 +1,3 @@
+heart.png
+libgdx.png
+vampire.png
